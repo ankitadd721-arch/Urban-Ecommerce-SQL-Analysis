@@ -29,7 +29,7 @@ The relational database consists of four interconnected tables:
 
 ## 🚀 How to Run the Project
 1. Execute `01_Database_and_Tables.sql` to create the schema.
-2. Run `02_Dummy_Data_Insert.sql` to populate the tables with sample records.
+2. Run `02_Data_Insert.sql` to populate the tables with sample records.
 3. Open `03_Business_Analysis_Queries.sql` to view the advanced analytical queries and insights.
 
 ---
