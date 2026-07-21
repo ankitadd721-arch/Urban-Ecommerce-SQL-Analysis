@@ -31,7 +31,7 @@ The relational database consists of four interconnected tables:
 1. Execute `01_Database_and_Tables.sql` to create the schema.
 2. Run `02_Data_Insert.sql` to populate the tables with sample records.
 3. Open `03_Business_Analysis_Queries.sql` to view the advanced analytical queries and insights.
-
+4.📊 Presentation: Click here to view the Project Presentation PDF/PPT
 ---
 **Author:** Ankita Manchalwar
 **Tools Used:** SQL, Relational Database Management
